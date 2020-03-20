@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.globals": [
+        "AddTextComponentString",
+        "SetTextComponetFormat",
+        "alert",
+        "client_scripts",
+        "DisplayHelpTextFromStringLable",
+        "SetNotificationTextEntry",
+        "DrawNotification",
+        "giveWeapon"
+    ]
+}
